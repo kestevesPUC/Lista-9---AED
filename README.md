@@ -1,8 +1,8 @@
-#PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
 Disciplina: Algoritmos e Estruturas de Dados
 Obs: Cópias serão desconsideradas, ou seja, a nota será igual a 0 (zero).
 
-#Lista 9 – Pesquisa Binária, Árvore Binária de Pesquisa
+Lista 9 – Pesquisa Binária, Árvore Binária de Pesquisa
 
 1) Faça um programa que use o método de pesquisa binária para encontrar e imprimir a posição de um
 determinado elemento no vetor. Se o elemento não existir, seu programa deve imprimir o valor -1.
